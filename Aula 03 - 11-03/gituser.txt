@@ -1,0 +1,9 @@
+View
+terminal
+gitbash
+$ git --global user.name "Lucas Simidu"
+$ git --global user.email "lucas.simidu@outlook.com"
+$ git init
+$ git remote add origin https://github.com/ldsimidu/ex_aula03.git01
+$ git add .
+$ git commit -m "Primeiro Commit"
